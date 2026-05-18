@@ -60,10 +60,3 @@ Siga as instruções abaixo para testar o aplicativo no seu próprio celular (vi
    - Aguarde o carregamento (bundling) e divirta-se!
 
 ---
-
-## 👨‍💻 Desenvolvedor
-
-**Homero Flávio** - Estudante / Desenvolvedor.
-
----
-*Projeto criado como atividade acadêmica/portfólio.*
